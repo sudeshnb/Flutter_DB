@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-mbrjn",
+    "appUrl": "https://realm.mongodb.com/groups/6552dc82b6f2b206b2c2072c/apps/6552ddcc7bdea846833615ff",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/6552dc82b6f2b206b2c2072c/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
